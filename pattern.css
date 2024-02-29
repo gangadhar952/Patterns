@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.patterns{
+    display: flex;
+}
+div{
+    width:200px;
+    height:200px;
+    margin:20px;
+    font-size: 20px;
+}
+button{
+    background-color: hsl(84, 79%, 40%);
+    padding:15px;
+    border-radius: 5px;
+    color: white;
+}
